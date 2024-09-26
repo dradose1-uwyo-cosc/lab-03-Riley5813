@@ -2,8 +2,8 @@
 # UWYO COSC 1010
 # (09/26/24)
 # Lab 03 
-# Lab Section: 
-# Sources, people worked with, help given to: 
+# Lab Section: 18
+# Sources, people worked with, help given to: Tristan Boardman
 # your
 # comments
 # here
